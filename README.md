@@ -1,6 +1,6 @@
-#Name: Kuheli sen
-#Data Science
-#Sentiment Analysis and Visualization of Social Media Data
+# Name: Kuheli sen
+# Data Science
+# Sentiment Analysis and Visualization of Social Media Data
 
 ## Overview
 This project analyzes and visualizes sentiment patterns in social media data to better understand public opinion, emotional trends, and attitudes towards specific topics or brands.
